@@ -6,3 +6,6 @@ I'm a passionate French full-stack developer currently working in Luxembourg sin
 ## Tech stack 💻
 My expertise lies in crafting solutions using C#, .NET, and SQL.<br>
 More recently, I've been diving into the exciting world of Angular, expanding my toolkit to create dynamic and responsive web applications.
+
+##
+"Tell me and I forget, teach me and I may remember, involve me and I learn" - Benjamin Franklin
